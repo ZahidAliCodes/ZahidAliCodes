@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Zahid Ali, a passionate JavaScript Developer from the vibrant city of Gujranwala,:flag_pakistan: Pakistan.
+I'm Zahid Ali, a passionate JavaScript Developer from the vibrant city of Gujranwala, :flag_pakistan: Pakistan.
 
 Here are some ideas to get you started:
 
