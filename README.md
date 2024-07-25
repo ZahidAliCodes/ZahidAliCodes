@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230965C1?style=for-the-badge&logo=linkedin&logoColor=%23ffffff" alt="Connect on LinkedIn"  height="30px" width="166px"/>
     </a>
     <a href="https://github.com/ZahidAliCodes" target="_blank">
-        <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23ffffff" alt="Follow on GitHub"  height="30px" width="166px"/>
+        <img src="https://img.shields.io/badge/Follow%20on%20GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=%23000000" alt="Follow on GitHub"  height="30px" width="166px"/>
     </a>
     <a href="https://www.youtube.com/@zahidalicoder" target="_blank">
         <img src="https://img.shields.io/badge/Subscribe%20on%20YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=%23ffffff" alt="Subscribe on YouTube"  height="30px" width="166px"/>
