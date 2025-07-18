@@ -8,7 +8,7 @@ Welcome! I build **modern, responsive, and performant web applications** for sta
 
 ## 🚀 What I Do Best
 
-* **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js
+* **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js, **Tailwind CSS**
 * **Design-to-Code:** Pixel-perfect implementation from Figma & Adobe XD.
 * **Quality & Performance:** Clean, maintainable, SEO-friendly, and highly performant code.
 * **Collaborative Approach:** Effective communication, agile, and on-time project delivery.
@@ -39,6 +39,7 @@ Welcome! I build **modern, responsive, and performant web applications** for sta
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
