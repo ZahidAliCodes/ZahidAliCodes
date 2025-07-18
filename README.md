@@ -1,50 +1,52 @@
-# 👋 Hi, I'm Zahid Ali
+# 👋 Zahid Ali | Front-End Developer
 
-**Front-end Developer | UI/UX Enthusiast | Freelancer @ Upwork**
+**UI/UX Enthusiast | Freelancer @ Upwork | 4+ Years Experience**
 
-Welcome to my GitHub! I’m a dedicated front-end developer with **4+ years of experience** crafting modern, responsive, and performant web applications. I collaborate with startups, agencies, and businesses worldwide to turn ideas into elegant digital products.
-
----
-
-## 🚀 What I Do
-
-- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js
-- **UI/UX:** Translating Figma & Adobe XD designs into pixel-perfect interfaces
-- **Best Practices:** Clean, maintainable code, SEO-friendly structure, and accessibility
-- **Collaboration:** Effective communication, agile development, and on-time delivery
+Welcome! I build **modern, responsive, and performant web applications** for startups, agencies, and businesses worldwide. My goal is to transform ideas into elegant, user-centric digital products.
 
 ---
 
-## 📈 Current Focus
+## 🚀 What I Do Best
 
-- Building high-quality, scalable front-end solutions
-- Learning and implementing the latest in web performance and modern frameworks
-- Delivering exceptional user experiences that align with client goals
-
----
-
-## 📫 Let’s Connect
-
-- 🔗 [Upwork Profile](https://www.upwork.com/freelancers/zahidalicodes?mp_source=share)
-- 🌐 [Portfolio Website](https://zahidalicodes.github.io/Zahid-Ali/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/zahidalicodes/)
-- 📧 [Email](mailto:your.email@example.com)
+* **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js
+* **Design-to-Code:** Pixel-perfect implementation from Figma & Adobe XD.
+* **Quality & Performance:** Clean, maintainable, SEO-friendly, and highly performant code.
+* **Collaborative Approach:** Effective communication, agile, and on-time project delivery.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 Current Goals
+
+* Building scalable front-end solutions.
+* Mastering advanced web performance and modern framework techniques.
+* Delivering exceptional user experiences.
+
+---
+
+## 📫 Let's Connect
+
+* 🔗 [Upwork Profile](https://www.upwork.com/freelancers/zahidalicodes?mp_source=share)
+* 🌐 [Portfolio Website](https://zahidalicodes.github.io/Zahid-Ali/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/zahidalicodes/)
+* 📧 [Email](mailto:your.email@example.com)
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ---
 
-> **“Code is read more often than it is written — write it beautifully.”**
-
-Thanks for visiting! Feel free to check out my work, open an issue, or reach out for collaborations.
+> **"Turning design into seamless user experiences."**
+>
+> ---
+>
+> Thanks for visiting! Explore my work or get in touch for collaborations.
