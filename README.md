@@ -1,56 +1,38 @@
-<!-- Profile README for Zahid Ali -->
+# 👋 Hi, I'm Zahid Ali
 
-<h1 align="center">Hi 👋, I'm Zahid Ali</h1>
+**Front-end Developer | UI/UX Enthusiast | Freelancer @ Upwork**
 
-<p align="center">
-  🌐 Front-End Developer | 💼 Upwork Freelancer | 🎨 UI/UX Enthusiast
-</p>
+Welcome to my GitHub! I’m a dedicated front-end developer with **4+ years of experience** crafting modern, responsive, and performant web applications. I collaborate with startups, agencies, and businesses worldwide to turn ideas into elegant digital products.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 What I Do
 
-I’m a **Front-End Developer** with **4+ years** of experience building modern, responsive, and user-friendly websites and web apps.  
-I love transforming complex problems into elegant solutions through clean, maintainable code.
-
-- 🔭 Currently working as a **Freelancer on Upwork**
-- ⚡ I focus on **HTML5, CSS3, JavaScript, React.js, Vue.js**
-- 🎨 Passionate about **pixel-perfect UI/UX**
-- 🚀 Always learning and exploring new technologies
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js
+- **UI/UX:** Translating Figma & Adobe XD designs into pixel-perfect interfaces
+- **Best Practices:** Clean, maintainable code, SEO-friendly structure, and accessibility
+- **Collaboration:** Effective communication, agile development, and on-time delivery
 
 ---
 
-### 🛠️ Tech Stack
+## 📈 Current Focus
 
-**Languages & Frameworks:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000) 
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff)
-
-**Tools & Design:**  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff) 
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+- Building high-quality, scalable front-end solutions
+- Learning and implementing the latest in web performance and modern frameworks
+- Delivering exceptional user experiences that align with client goals
 
 ---
 
-### 📈 GitHub Stats
+## 📫 Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="Zahid's GitHub stats" />
-</p>
-
----
-
-### 📫 Connect With Me
-
-- 💼 [Upwork](#) <!-- Add your Upwork profile link -->
-- 🌐 [Portfolio](#) <!-- Add your portfolio link if any -->
-- 💬 [LinkedIn](#) <!-- Add your LinkedIn link if you like -->
+- 🔗 [Upwork Profile](#) _(Add your Upwork link here)_
+- 🌐 [Portfolio Website](#) _(If you have one)_
+- 💼 [LinkedIn](#) _(If you’d like to share)_
 - 📧 [Email](mailto:your.email@example.com)
 
 ---
 
-**_"Building elegant interfaces, one line of code at a time."_**
+> **“Code is read more often than it is written — write it beautifully.”**
+
+Thanks for stopping by! Feel free to explore my repositories, open an issue, or reach out for collaborations.
+
