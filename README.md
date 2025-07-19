@@ -28,7 +28,7 @@ Welcome! I build **modern, responsive, and performant web applications** for sta
 * 🔗 [Upwork Profile](https://www.upwork.com/freelancers/zahidalicodes?mp_source=share)
 * 🌐 [Portfolio Website](https://zahidalicodes.github.io/Zahid-Ali/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/zahidalicodes/)
-* 📧 [Email](mailto:your.email@example.com)
+* 📧 [Email](mailto:your.zahidalicodes@gmail.com)
 
 ---
 
