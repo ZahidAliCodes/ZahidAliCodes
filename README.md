@@ -1,53 +1,101 @@
-# 👋 Zahid Ali | Front-End Developer
+# ⚡ Zahid Ali | Senior Front-End Developer
 
-**UI/UX Enthusiast | Freelancer @ Upwork | 4+ Years Experience**
+**UI/UX-Driven Front-End Engineer | Upwork Top Freelancer | 4+ Years Experience**
 
-Welcome! I build **modern, responsive, and performant web applications** for startups, agencies, and businesses worldwide. My goal is to transform ideas into elegant, user-centric digital products.
-
----
-
-## 🚀 What I Do Best
-
-* **Core Stack:** HTML5, CSS3, JavaScript (ES6+), React.js, **Tailwind CSS**
-* **Design-to-Code:** Pixel-perfect implementation from Figma & Adobe XD.
-* **Quality & Performance:** Clean, maintainable, SEO-friendly, and highly performant code.
-* **Collaborative Approach:** Effective communication, agile, and on-time project delivery.
+I help startups, SaaS companies, and agencies build **high-conversion, pixel-perfect, and performance-optimized front-end experiences**. My work focuses on clean architecture, modern UI systems, and scalable codebases that are easy to maintain and grow.
 
 ---
 
-## 🎯 Current Goals
+## 🧠 Expertise Snapshot
 
-* Building scalable front-end solutions.
-* Mastering advanced web performance and modern framework techniques.
-* Delivering exceptional user experiences.
-
----
-
-## 📫 Let's Connect
-
-* 🔗 [Upwork Profile](https://www.upwork.com/freelancers/zahidalicodes?mp_source=share)
-* 🌐 [Portfolio Website](https://zahidalicodes.github.io/Zahid-Ali/)
-* 💼 [LinkedIn](https://www.linkedin.com/in/zahidalicodes/)
-* 📧 [Email](mailto:zahidalicodes@gmail.com)
+* **Experience:** 4+ years delivering production-ready front-end solutions
+* **Specialty:** Design-to-code, UI engineering, responsive systems
+* **Clients:** Global startups, agencies, SaaS products, marketing teams
+* **Mindset:** Performance-first, detail-oriented, business-focused
 
 ---
 
-## 🛠️ Tech Stack
+## 💎 What Sets Me Apart
+
+✅ **Pixel-Perfect UI Engineering**
+Flawless Figma / Adobe XD / PSD to HTML, React, or Tailwind conversions — accurate down to the last pixel.
+
+⚡ **High Performance & Clean Code**
+SEO-friendly markup, optimized assets, reusable components, and scalable CSS architecture.
+
+📱 **Fully Responsive Systems**
+Mobile-first layouts with consistent behavior across all modern browsers and devices.
+
+🤝 **Reliable Freelancer Workflow**
+Clear communication, fast turnaround, iterative feedback, and on-time delivery.
+
+---
+
+## 🛠 Core Technology Stack
+
+**Languages & Frameworks**
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js
+* Tailwind CSS
+
+**UI / Styling**
+
+* Component-based UI systems
+* CSS Variables, Animations & Micro-interactions
+* Accessibility-aware layouts
+
+**Design & Collaboration**
+
+* Figma, Adobe XD, Sketch
+* Git, GitHub
+* Agile & Remote Collaboration
+
+---
+
+## 🚀 Services I Provide
+
+* 🔹 High-Converting Landing Pages
+* 🔹 SaaS & Dashboard Front-End Development
+* 🔹 Figma / XD / PSD to HTML, React, Tailwind
+* 🔹 Responsive Email Templates (Pixel-Perfect)
+* 🔹 UI Refactoring & Performance Optimization
+* 🔹 Bug Fixes, UI Enhancements & Cleanup
+
+---
+
+## 🎯 Current Focus
+
+* Building scalable front-end architectures
+* Advanced React patterns & UI performance tuning
+* Motion, micro-interactions & smooth UX
+* Design systems and reusable component libraries
+
+---
+
+## 🌍 Let’s Connect
+
+* 🔗 **Upwork:** [https://www.upwork.com/freelancers/zahidalicodes?mp_source=share](https://www.upwork.com/freelancers/zahidalicodes?mp_source=share)
+* 🌐 **Portfolio:** [https://zahidalicodes.github.io/Zahid-Ali/](https://zahidalicodes.github.io/Zahid-Ali/)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/zahidalicodes/](https://www.linkedin.com/in/zahidalicodes/)
+* 📧 **Email:** [zahidalicodes@gmail.com](mailto:zahidalicodes@gmail.com)
+
+---
+
+## 🧰 Tech Stack Icons
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-> **"Turning design into seamless user experiences."**
->
-> ---
->
-> Thanks for visiting! Explore my work or get in touch for collaborations.
+> **“Engineering clean interfaces that convert users into customers.”**
+
+⭐ Star my repositories or reach out if you’re looking for a reliable front-end expert.
